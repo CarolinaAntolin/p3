@@ -1,0 +1,39 @@
+#button {
+ padding: 0;
+ }
+#button li {
+ display: inline;
+ }
+#button li a {
+ font-family: Algerian;
+ font-size: 30px;
+ text-decoration: none;
+ float: center;
+ padding: 10px;
+ color: #fff;
+ }
+h1{
+  text-align:center;
+  color: #00000;
+  font-style: italic;
+  font-size: 50px;
+  font-family: "Algerian"
+  
+}
+
+h2 {
+  text-align:center;
+  color: #FFFFFF;
+  font-size: 22px;
+}
+
+img{
+display:block;
+margin:auto;
+}
+
+body{ 
+  background-color: #0CB7F2;
+}
+
+
